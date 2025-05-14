@@ -20,9 +20,6 @@ This is my academic capstone project, done as a team of 5 members. We're buildin
 ### Web Development Pages (Coming Soon)
 I'm currently working on building interactive web pages. Stay tuned for more updates on my projects!
 
-### Basic AI Project with Sora (Image Attachment) - In Progress
-As part of my learning process, I experimented with Sora, where I attached images to generate AI-based outputs. This helped me understand the potential of combining image data with AI models. This project is currently in progress.
-
 ## How to Run This Project Locally
 
 1. Clone this repository to your local machine:
