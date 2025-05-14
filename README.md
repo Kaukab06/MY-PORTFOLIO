@@ -27,4 +27,4 @@ As part of my learning process, I experimented with Sora, where I attached image
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Kaukab06/MY-PORTFOLIO.git
