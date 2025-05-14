@@ -1,0 +1,79 @@
+/* General Styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f5f5; /* Light grey background */
+  margin: 0;
+  padding: 0;
+  color: #2c3e50;
+}
+
+/* Main Container */
+section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Section Title */
+h2 {
+  text-align: center;
+  color: #1a73e8;
+  margin-bottom: 30px;
+}
+
+/* Subtitle under name */
+.subtitle {
+  font-size: 1rem;
+  color: #888;
+  text-align: center;
+  margin-top: -15px;
+  margin-bottom: 20px;
+}
+
+/* Project List */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Each Project Item */
+li {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Project Title */
+h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+/* Project Description */
+p {
+  margin: 10px 0 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/* GitHub Button */
+.github-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #24292e;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 0.95rem;
+  transition: background 0.3s ease;
+}
+
+.github-button:hover {
+  background-color: #444;
+}
